@@ -1,5 +1,9 @@
 <h1 align="center"> Estimating Real Estate Prices </h1>
-![Estimating Real Estate Prices](https://user-images.githubusercontent.com/110327175/223347714-e3179f55-8442-4af4-8e8d-7186367d6551.png)
+
+![image](https://user-images.githubusercontent.com/110327175/223350271-ebcd81d5-1c66-4f25-a515-e5c8304da70e.jpg)
+
+
+
 
 <p align="justify"> 
 This data science project walks through the step-by-step process of how to build a real estate price prediction website. The dataset used for the project is Bengaluru House Price Prediction Data from Kaggle. Generally, we come across real estate websites that sell and estimate the property's price in many parts of the country. The model we are implementing here is inspired by the same concept, the prediction of real estate properties based on the property's area, bedrooms, bathrooms, and location.
